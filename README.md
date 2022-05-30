@@ -1,3 +1,4 @@
 # gitconflicts
 
 Sebastian Wolter
+Leonie
